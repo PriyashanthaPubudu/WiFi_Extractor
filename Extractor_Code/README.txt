@@ -1,0 +1,1 @@
+IMPORTANT:	Your PC or Laptop should have java installed to execute the code. "wifiExtractor.bat" 			file is used to automate the "wifiExtractor.java" code. Thank You !
